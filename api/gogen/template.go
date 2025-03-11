@@ -36,6 +36,7 @@ var templates = map[string]string{
 	routesTemplateFile:          routesTemplate,
 	routesAdditionTemplateFile:  routesAdditionTemplate,
 	typesTemplateFile:           typesTemplate,
+	validateTemplateFile:        validateTemplate,
 }
 
 // Category returns the category of the api files.
